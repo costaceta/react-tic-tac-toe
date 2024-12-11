@@ -3,6 +3,11 @@
 ## Descrição
 Este projeto é uma implementação do clássico jogo da velha (Tic-Tac-Toe) desenvolvido com **React** e utilizando o **ViteJS** como ferramenta de build. O objetivo do projeto é criar um jogo interativo, simples e funcional para praticar conceitos de React, como estados, componentes e manipulação de eventos.
 
+## Link da Aplicação
+
+[React Tic-Tac-Toe](https://costaceta.github.io/react-tic-tac-toe/)
+
+
 ## Funcionalidades
 - Jogabilidade para dois jogadores.
 - Destaque do jogador atual.
